@@ -1,0 +1,97 @@
+[{
+        "ID_CENTRO": "",
+        "ID_PABELLON": "01",
+        "ID_PLANTA": "01",
+        "SUPERFICIE": 5,
+        "NESPACIOS": 2,
+        "NACCESOSESCALERA": "",
+        "NACCESOSASCENSOR": "",
+        "COD_TIPO_SALIDA": "",
+        "ID_DOCUMENTO": "",
+        "ID_DOCUMENTO_PLANO": ""
+    },
+    {
+        "ID_CENTRO": "",
+        "ID_PABELLON": "02",
+        "ID_PLANTA": "02",
+        "SUPERFICIE": 5,
+        "NESPACIOS": 2,
+        "NACCESOSESCALERA": "",
+        "NACCESOSASCENSOR": "",
+        "COD_TIPO_SALIDA": "",
+        "ID_DOCUMENTO": "",
+        "ID_DOCUMENTO_PLANO": ""
+    },
+    {
+        "ID_CENTRO": "",
+        "ID_PABELLON": "01",
+        "ID_PLANTA": "03",
+        "SUPERFICIE": 5,
+        "NESPACIOS": 2,
+        "NACCESOSESCALERA": "",
+        "NACCESOSASCENSOR": "",
+        "COD_TIPO_SALIDA": "",
+        "ID_DOCUMENTO": "",
+        "ID_DOCUMENTO_PLANO": ""
+    },
+    {
+        "ID_CENTRO": "",
+        "ID_PABELLON": "02",
+        "ID_PLANTA": "04",
+        "SUPERFICIE": 5,
+        "NESPACIOS": 2,
+        "NACCESOSESCALERA": "",
+        "NACCESOSASCENSOR": "",
+        "COD_TIPO_SALIDA": "",
+        "ID_DOCUMENTO": "",
+        "ID_DOCUMENTO_PLANO": ""
+    },
+    {
+        "ID_CENTRO": "",
+        "ID_PABELLON": "01",
+        "ID_PLANTA": "05",
+        "SUPERFICIE": 5,
+        "NESPACIOS": 2,
+        "NACCESOSESCALERA": "",
+        "NACCESOSASCENSOR": "",
+        "COD_TIPO_SALIDA": "",
+        "ID_DOCUMENTO": "",
+        "ID_DOCUMENTO_PLANO": ""
+    },
+    {
+        "ID_CENTRO": "",
+        "ID_PABELLON": "03",
+        "ID_PLANTA": "06",
+        "SUPERFICIE": 5,
+        "NESPACIOS": 2,
+        "NACCESOSESCALERA": "",
+        "NACCESOSASCENSOR": "",
+        "COD_TIPO_SALIDA": "",
+        "ID_DOCUMENTO": "",
+        "ID_DOCUMENTO_PLANO": ""
+    },
+    {
+        "ID_CENTRO": "",
+        "ID_PABELLON": "03",
+        "ID_PLANTA": "07",
+        "SUPERFICIE": 5,
+        "NESPACIOS": 2,
+        "NACCESOSESCALERA": "",
+        "NACCESOSASCENSOR": "",
+        "COD_TIPO_SALIDA": "",
+        "ID_DOCUMENTO": "",
+        "ID_DOCUMENTO_PLANO": ""
+    },
+    {
+        "ID_CENTRO": "",
+        "ID_PABELLON": "04",
+        "ID_PLANTA": "08",
+        "SUPERFICIE": 5,
+        "NESPACIOS": 2,
+        "NACCESOSESCALERA": "",
+        "NACCESOSASCENSOR": "",
+        "COD_TIPO_SALIDA": "",
+        "ID_DOCUMENTO": "",
+        "ID_DOCUMENTO_PLANO": ""
+    }
+]
